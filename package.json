@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/AlexKonovalov12/ajsNew#readme",
   "dependencies": {
-    "@alexkonovalov12/ajs": "^1.1.0"
+    "@alexkonovalov12/ajs": "^2.0.0"
   }
 }
